@@ -1,8 +1,6 @@
 # INFO441 Project UPTOWN
 
-## INFO 441 Final Project Proposal
-### INFO441 Team5 
-### Team members: Jessica Liu, Miranda Ma, Whitney Zhang, Yi Zhong
+## Project Proposal
  
 ## Project Description 
 We’re interested in building a housing finder tool for people to search for their next apartment to live in. This idea stems from the struggles we experience as out-of-state college students searching for off-campus housing around the university without any knowledge of the neighborhoods. We feel that there is especially a need to focus on the safety of one’s living arrangements in an urban city like Seattle, where the property crime score is 76.9 compared to the US average of 35.4 (https://www.bestplaces.net/crime/city/washington/seattle). 
